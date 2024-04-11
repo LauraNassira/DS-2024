@@ -1,0 +1,18 @@
+@echo 
+chcp 65001 >nul 
+
+set /p ano="Digite um ano: " 
+mkdir %ano%
+cd 
+mkdir "01 - janero" 
+mkdir "02 - feverero"
+mkdir "03 - março
+mkdir "04 - abril " 
+mkdir "05 - maio" 
+mkdir "06 - junho" 
+mkdir "07 - julho " 
+mkdir "08 - agosto" 
+mkdir "09 - setembro"
+mkdir "10 - outubro" 
+mkdir "11 - novembro" 
+mkdir "12 - dezenbro"
