@@ -1,0 +1,2 @@
+nimero = int(input('Digite'))
+
